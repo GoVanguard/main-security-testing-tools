@@ -1,7 +1,6 @@
 ## Contents
 
-* [Penetration Testing Distributions](#penetration-testing-distributions)
-* [Docker for Penetration Testing](#docker-for-penetration-testing)
+* [Penetration Testing OS Distributions](#penetration-testing-os-distributions)
 * [Multi-paradigm Frameworks](#multi-paradigm-frameworks)
 * [Network Vulnerability scanners](#network-vulnerability-scanners)
   * [Static Analyzers](#static-analyzers)
@@ -31,7 +30,7 @@
 
 ## Tools
 
-### Penetration Testing Distributions
+### Penetration Testing OS Distributions
 
 * [Kali](https://www.kali.org/) - GNU/Linux distribution designed for digital forensics and penetration testing.
 * [ArchStrike](https://archstrike.org/) - Arch GNU/Linux repository for security professionals and enthusiasts.
@@ -61,7 +60,7 @@
 * [OpenVAS](http://www.openvas.org/) - Free software implementation of the popular Nessus vulnerability assessment system.
 * [Vuls](https://github.com/future-architect/vuls) - Agentless vulnerability scanner for GNU/Linux and FreeBSD, written in Go.
 
-#### Static Analyzers
+### Static Analyzers
 
 * [Brakeman](https://github.com/presidentbeef/brakeman) - Static analysis security vulnerability scanner for Ruby on Rails applications.
 * [cppcheck](http://cppcheck.sourceforge.net/) - Extensible C/C++ static analyzer focused on finding bugs.
@@ -70,7 +69,7 @@
 * [bandit](https://pypi.python.org/pypi/bandit/) - Security oriented static analyser for python code.
 * [Progpilot](https://github.com/designsecurity/progpilot) - Static security analysis tool for PHP code.
 
-#### Web Vulnerability Scanners
+### Web Vulnerability Scanners
 
 * [Netsparker Application Security Scanner](https://www.netsparker.com/) - Application security scanner to automatically find security flaws.
 * [Nikto](https://cirt.net/nikto2) - Noisy but fast black box web server and web application vulnerability scanner.
@@ -104,14 +103,14 @@
 * [dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting typo squatting, phishing and corporate espionage.
 * [THC Hydra](https://github.com/vanhauser-thc/thc-hydra) - Online password cracking tool with built-in support for many network protocols, including HTTP, SMB, FTP, telnet, ICQ, MySQL, LDAP, IMAP, VNC, and more.
 
-#### Exfiltration Tools
+### Exfiltration Tools
 
 * [DET](https://github.com/sensepost/DET) - Proof of concept to perform data exfiltration using either single or multiple channel(s) at the same time.
 * [pwnat](https://github.com/samyk/pwnat) - Punches holes in firewalls and NATs.
 * [tgcd](http://tgcd.sourceforge.net/) - Simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
 * [Iodine](https://code.kryo.se/iodine/) - Tunnel IPv4 data through a DNS server; useful for exfiltration from networks where Internet access is firewalled, but DNS queries are allowed.
 
-#### Network Reconnaissance Tools
+### Network Reconnaissance Tools
 
 * [zmap](https://zmap.io/) - Open source network scanner that enables researchers to easily perform Internet-wide network studies.
 * [nmap](https://nmap.org/) - Free security scanner for network exploration & security audits.
@@ -129,7 +128,7 @@
 * [XRay](https://github.com/evilsocket/xray) - Network (sub)domain discovery and reconnaissance automation tool.
 * [ACLight](https://github.com/cyberark/ACLight) - Script for advanced discovery of sensitive Privileged Accounts - includes Shadow Admins.
 
-#### Protocol Analyzers and Sniffers
+### Protocol Analyzers and Sniffers
 
 * [tcpdump/libpcap](http://www.tcpdump.org/) - Common packet analyzer that runs under the command line.
 * [Wireshark](https://www.wireshark.org/) - Widely-used graphical, cross-platform network protocol analyzer.
@@ -139,7 +138,7 @@
 * [Dripcap](https://github.com/dripcap/dripcap) - Caffeinated packet analyzer.
 * [Netzob](https://github.com/netzob/netzob) - Reverse engineering, traffic generation and fuzzing of communication protocols.
 
-#### Proxies and MITM Tools
+### Proxies and MITM Tools
 
 * [dnschef](https://github.com/iphelix/dnschef) - Highly configurable DNS proxy for pentesters.
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -267,12 +266,7 @@
 
 ### Social Engineering Tools
 
-* [Social Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit) - Open source pentesting framework designed for social engineering featuring a number of custom attack vectors to make believable attacks quickly.
-* [King Phisher](https://github.com/securestate/king-phisher) - Phishing campaign toolkit used for creating and managing multiple simultaneous phishing attacks with custom email and server content.
-* [Evilginx](https://github.com/kgretzky/evilginx) - MITM attack framework used for phishing credentials and session cookies from any Web service.
-* [wifiphisher](https://github.com/sophron/wifiphisher) - Automated phishing attacks against WiFi networks.
-* [Catphish](https://github.com/ring0lab/catphish) - Tool for phishing and corporate espionage written in Ruby.
-* [Beelogger](https://github.com/4w4k3/BeeLogger) - Tool for generating keylooger.
+* [GoVanguard/list-socialengineering-resources](https://github.com/GoVanguard/list-socialengineering-resources#social-engineering-tools) - GoVanguard's list of social engineering resources.
 
 ### OSINT Tools
 
@@ -303,6 +297,9 @@
 * [ZoomEye](https://www.zoomeye.org/) - Search engine for cyberspace that lets the user find specific network components.
 * [gOSINT](https://github.com/Nhoya/gOSINT) - OSINT tool with multiple modules and a telegram scraper.
 * [Amass](https://github.com/caffix/amass) - Subdomain enumeration via scraping, web archives, brute forcing, permutations, reverse DNS sweeping, TLS certificates, passive DNS data sources, etc.
+* [XRay](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
+* [Intel Techniques Online Tools](https://inteltechniques.com/menu.html) - Use the links to the left to access all of the custom search tools.
+* [Buscador](https://inteltechniques.com/buscador/) - A Linux Virtual Machine that is pre-configured for online investigators
 
 ### Anonymity Tools
 
