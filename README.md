@@ -234,7 +234,6 @@
 * [passivedns](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
 * [creepy](https://github.com/ilektrojohn/creepy) - Geolocation OSINT tool.
 * [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) - Database of Google dorks; can be used for recon.
-* [Google-dorks](https://github.com/JohnTroony/Google-dorks) - Common Google dorks and others you probably don't know.
 * [GooDork](https://github.com/k3170makan/GooDork) - Command line Google dorking tool.
 * [dork-cli](https://github.com/jgor/dork-cli) - Command line Google dork tool.
 * [Censys](https://www.censys.io/) - Collects data on hosts and websites through daily ZMap and ZGrab scans.
