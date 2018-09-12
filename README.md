@@ -222,6 +222,8 @@
 
 * [Shodan](https://www.shodan.io/) - World's first search engine for Internet-connected devices.
 * [Maltego](http://www.paterva.com/web7/) - Proprietary software for open source intelligence and forensics, from Paterva.
+* [Mxtoolbox](https://mxtoolbox.com/) - Email domain and DNS lookup.
+* [Robtex](https://www.robtex.com/) - Domain and IP address lookup.
 * [theHarvester](https://github.com/laramies/theHarvester) - E-mail, subdomain and people names harvester.
 * [DNSDumpster](https://dnsdumpster.com/) - Online DNS recon and search service.
 * [dnsenum](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
