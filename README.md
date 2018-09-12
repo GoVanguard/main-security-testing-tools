@@ -20,13 +20,11 @@
 * [Windows Utilities](#windows-utilities)
 * [GNU/Linux Utilities](#gnulinux-utilities)
 * [macOS Utilities](#macos-utilities)
-* [DDoS Tools](#ddos-tools)
 * [Social Engineering Tools](#social-engineering-tools)
 * [OSINT Tools](#osint-tools)
 * [Anonymity Tools](#anonymity-tools)
 * [Reverse Engineering Tools](#reverse-engineering-tools)
 * [Side-channel Tools](#side-channel-tools)
-* [CTF Tools](#ctf-tools)
 
 ## Tools
 
