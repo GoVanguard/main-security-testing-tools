@@ -142,7 +142,8 @@
 * [Browser Exploitation Framework (BeEF)](https://github.com/beefproject/beef) - Command and control server for delivering exploits to commandeered Web browsers.
 * [Wordpress Exploit Framework](https://github.com/rastating/wordpress-exploit-framework) - Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
 * [WPSploit](https://github.com/espreto/wpsploit) - Exploit WordPress-powered websites with Metasploit.
-* [SQLmap](http://sqlmap.org/) - Automatic SQL injection and database takeover tool.
+* [SQLmap](http://sqlmap.org/) - Automated SQL injection and database takeover tool.
+* [sqlninja](http://sqlninja.sourceforge.net/) - Automated SQL injection and database takeover tool.
 * [tplmap](https://github.com/epinna/tplmap) - Automatic server-side template injection and Web server takeover tool.
 * [weevely3](https://github.com/epinna/weevely3) - Weaponized web shell.
 * [wafw00f](https://github.com/EnableSecurity/wafw00f) - Identifies and fingerprints Web Application Firewall (WAF) products.
