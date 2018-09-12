@@ -81,6 +81,7 @@
 * [impacket](https://github.com/CoreSecurity/impacket) - Collection of Python classes for working with network protocols.
 * [dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting typo squatting, phishing and corporate espionage.
 * [THC Hydra](https://github.com/vanhauser-thc/thc-hydra) - Online password cracking tool with built-in support for many network protocols, including HTTP, SMB, FTP, telnet, ICQ, MySQL, LDAP, IMAP, VNC, and more.
+* [Ncat](https://nmap.org/ncat/) - TCP/IP command line utility supporting multiple protocols.
 
 ### Exfiltration Tools
 
