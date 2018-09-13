@@ -55,6 +55,7 @@
 * [bandit](https://pypi.python.org/pypi/bandit/) - Security oriented static analyser for python code.
 * [Progpilot](https://github.com/designsecurity/progpilot) - Static security analysis tool for PHP code.
 * [Codebeat (open source)](https://codebeat.co/open-source/) - Open source implementation of commercial static code analysis tool with GitHub integration.
+* [truffleHog](https://github.com/dxa4481/truffleHog) - Git repo scanner.
 
 ### Web Vulnerability Scanners
 
