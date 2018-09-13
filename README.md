@@ -90,6 +90,7 @@
 * [pwnat](https://github.com/samyk/pwnat) - Punches holes in firewalls and NATs.
 * [tgcd](http://tgcd.sourceforge.net/) - Simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
 * [Iodine](https://code.kryo.se/iodine/) - Tunnel IPv4 data through a DNS server; useful for exfiltration from networks where Internet access is firewalled, but DNS queries are allowed.
+* [PassHunt](https://github.com/Dionach/PassHunt) - Search file systems for passwords.
 
 ### Network Reconnaissance Tools
 
