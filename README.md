@@ -54,6 +54,7 @@
 * [sobelow](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework.
 * [bandit](https://pypi.python.org/pypi/bandit/) - Security oriented static analyser for python code.
 * [Progpilot](https://github.com/designsecurity/progpilot) - Static security analysis tool for PHP code.
+* [ShellCheck](https://github.com/koalaman/shellcheck) - Static code analysis tool for shell script.
 * [Codebeat (open source)](https://codebeat.co/open-source/) - Open source implementation of commercial static code analysis tool with GitHub integration.
 * [truffleHog](https://github.com/dxa4481/truffleHog) - Git repo scanner.
 
