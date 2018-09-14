@@ -91,6 +91,7 @@
 * [tgcd](http://tgcd.sourceforge.net/) - Simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
 * [Iodine](https://code.kryo.se/iodine/) - Tunnel IPv4 data through a DNS server; useful for exfiltration from networks where Internet access is firewalled, but DNS queries are allowed.
 * [PassHunt](https://github.com/Dionach/PassHunt) - Search file systems for passwords.
+* [PANHunt](https://github.com/Dionach/PANhunt) - Search file systems for credit cards.
 
 ### Network Reconnaissance Tools
 
@@ -117,6 +118,7 @@
 ### Proxies and MITM Tools
 
 * [Responder](https://github.com/SpiderLabs/Responder) - Open source NBT-NS, LLMNR, and MDNS poisoner.
+* [Responder-Windows](https://github.com/lgandx/Responder-Windows) - Windows version of the above NBT-NS/LLMNR/MDNS poisoner.
 * [dnschef](https://github.com/iphelix/dnschef) - Highly configurable DNS proxy for pentesters.
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 * [Morpheus](https://github.com/r00t-3xp10it/morpheus) - Automated ettercap TCP/IP Hijacking tool.
