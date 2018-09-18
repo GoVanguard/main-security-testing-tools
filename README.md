@@ -100,7 +100,7 @@
 * [Shodan](https://shodan.io/) - Database containing information on all accessible domains on the internet obtained from passive scanning.
 * [zmap](https://zmap.io/) - Open source network scanner that enables researchers to easily perform Internet-wide network studies.
 * [nmap](https://nmap.org/) - Free security scanner for network exploration & security audits.
-* [xprobe2](https://linux.die.net/man/1/xprobe2) - Open source operating system fingerprintg tool.
+* [xprobe2](https://linux.die.net/man/1/xprobe2) - Open source operating system fingerprinting tool.
 * [CloudFail](https://github.com/m0rtem/CloudFail) - Unmask server IP addresses hidden behind Cloudflare by searching old database records and detecting misconfigured DNS.
 * [Mass Scan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 * [smbmap](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
@@ -166,6 +166,7 @@
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 * [EyeWitness](https://github.com/ChrisTruncer/EyeWitness) - Tool to take screenshots of websites, provide some server header info, and identify default credentials if possible.
 * [webscreenshot](https://github.com/maaaaz/webscreenshot) - A simple script to take screenshots of list of websites.
+* [IIS-Shortname-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) - Command line tool to exploit the Windows IIS tilde information disclosure vulnerability.
 
 ### Hex Editors
 
