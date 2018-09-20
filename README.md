@@ -100,6 +100,7 @@
 * [Shodan](https://shodan.io/) - Database containing information on all accessible domains on the internet obtained from passive scanning.
 * [zmap](https://zmap.io/) - Open source network scanner that enables researchers to easily perform Internet-wide network studies.
 * [nmap](https://nmap.org/) - Free security scanner for network exploration & security audits.
+* [Netdiscover](https://github.com/alexxy/netdiscover) - Simple and quick network scanning tool.
 * [xprobe2](https://linux.die.net/man/1/xprobe2) - Open source operating system fingerprinting tool.
 * [CloudFail](https://github.com/m0rtem/CloudFail) - Unmask server IP addresses hidden behind Cloudflare by searching old database records and detecting misconfigured DNS.
 * [Mass Scan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
