@@ -88,7 +88,7 @@
 ### Exfiltration Tools
 
 * [HTTPTunnel](https://tools.kali.org/maintaining-access/httptunnel) - Tunnel data over pure HTTP GET/POST requests.
-* [DET](https://github.com/sensepost/DET) - Proof of concept to perform data exfiltration using either single or multiple channel(s) at the same time.
+* [Data Exfiltration Toolkit (DET)](https://github.com/PaulSec/DET) - Proof of concept to perform data exfiltration using either single or multiple channel(s) at the same time.
 * [pwnat](https://github.com/samyk/pwnat) - Punches holes in firewalls and NATs.
 * [tgcd](http://tgcd.sourceforge.net/) - Simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
 * [Iodine](https://code.kryo.se/iodine/) - Tunnel IPv4 data through a DNS server; useful for exfiltration from networks where Internet access is firewalled, but DNS queries are allowed.
