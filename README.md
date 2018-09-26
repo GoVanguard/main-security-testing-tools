@@ -106,6 +106,7 @@
 * [Mass Scan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 * [smbmap](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
 * [LdapMiner](https://sourceforge.net/projects/ldapminer/) - Multiplatform LDAP enumeration utility.
+* [ldapsearch](https://linux.die.net/man/1/ldapsearch) - Linux command line utility for querying LDAP servers.
 * [ACLight](https://github.com/cyberark/ACLight) - Script for advanced discovery of sensitive Privileged Accounts - includes Shadow Admins.
 * [Pentest-Tools](https://pentest-tools.com/home) - Online suite of various different pentest related tools.
 
