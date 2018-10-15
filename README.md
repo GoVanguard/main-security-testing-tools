@@ -135,8 +135,8 @@
 ### Wireless Network Tools
 
 * [Aircrack-ng](http://www.aircrack-ng.org/) - Set of tools for auditing wireless networks.
-* [Airodump-ng](https://www.aircrack-ng.org/doku.php?id=airodump-ng) - Individual component within Aircrack-ng just for capturing raw 802.11 frames.
 * [Wifite](https://github.com/derv82/wifite) - Automated wireless attack tool.
+* [WiFi Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - All in one Wi-Fi exploitation and spoofing utility.
 * [Fluxion](https://github.com/FluxionNetwork/fluxion) - Suite of automated social engineering based WPA attacks.
 
 ### Transport Layer Security Tools
