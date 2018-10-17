@@ -139,6 +139,7 @@
 * [Aircrack-ng](http://www.aircrack-ng.org/) - Set of tools for auditing wireless networks.
 * [Wifite](https://github.com/derv82/wifite) - Automated wireless attack tool.
 * [WiFi Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - All in one Wi-Fi exploitation and spoofing utility.
+* [MANA Toolkit](https://github.com/sensepost/mana) - Rogue AP and man-in-the-middle utility.
 * [Fluxion](https://github.com/FluxionNetwork/fluxion) - Suite of automated social engineering based WPA attacks.
 
 ### Transport Layer Security Tools
