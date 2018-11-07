@@ -74,7 +74,7 @@
 * [pig](https://github.com/rafael-santiago/pig) - GNU/Linux packet crafting tool.
 * [Network-Tools.com](http://network-tools.com/) - Website offering an interface to numerous basic network utilities like `ping`, `traceroute`, `whois`, and more.
 * [Intercepter-NG](http://sniff.su/) - Multifunctional network toolkit.
-* [SPARTA](https://sparta.secforce.com/) - Graphical interface offering scriptable, configurable access to existing network infrastructure scanning and enumeration tools.
+* [Legion](https://github.com/GoVanguard/legion) - Graphical interface offering scriptable, configurable access to existing network infrastructure scanning and enumeration tools.
 * [dsniff](https://www.monkey.org/~dugsong/dsniff/) - Collection of tools for network auditing and pentesting.
 * [scapy](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program & library.
 * [Printer Exploitation Toolkit (PRET)](https://github.com/RUB-NDS/PRET) - Tool for printer security testing capable of IP and USB connectivity, fuzzing, and exploitation of PostScript, PJL, and PCL printer language features.
@@ -98,6 +98,7 @@
 ### Network Reconnaissance Tools
 
 * [Shodan](https://shodan.io/) - Database containing information on all accessible domains on the internet obtained from passive scanning.
+  - [pyShodan](https://github.com/GoVanguard/pyShodan) - Python 3 script for interacting with Shodan API (requires valid API key).
 * [zmap](https://zmap.io/) - Open source network scanner that enables researchers to easily perform Internet-wide network studies.
 * [nmap](https://nmap.org/) - Free security scanner for network exploration & security audits.
 * [Netdiscover](https://github.com/alexxy/netdiscover) - Simple and quick network scanning tool.
@@ -138,7 +139,7 @@
 
 * [Aircrack-ng](http://www.aircrack-ng.org/) - Set of tools for auditing wireless networks.
 * [Wifite](https://github.com/derv82/wifite) - Automated wireless attack tool.
-* [WiFi Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - All in one Wi-Fi exploitation and spoofing utility.
+* [wifi-pickle](https://github.com/GoVanguard/wifi-pickle) - Fake access point attacks.
 * [MANA Toolkit](https://github.com/sensepost/mana) - Rogue AP and man-in-the-middle utility.
 * [Fluxion](https://github.com/FluxionNetwork/fluxion) - Suite of automated social engineering based WPA attacks.
 
@@ -235,6 +236,7 @@
 ### OSINT Tools
 
 * [Shodan](https://www.shodan.io/) - World's first search engine for Internet-connected devices.
+  - - [pyShodan](https://github.com/GoVanguard/pyShodan) - Python 3 script for interacting with Shodan API (requires valid API key).
 * [Maltego](http://www.paterva.com/web7/) - Proprietary software for open source intelligence and forensics, from Paterva.
 * [Mxtoolbox](https://mxtoolbox.com/) - Email domain and DNS lookup.
 * [Robtex](https://www.robtex.com/) - Domain and IP address lookup.
