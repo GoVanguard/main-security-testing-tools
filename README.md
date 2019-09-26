@@ -149,6 +149,8 @@
 * [SSLyze](https://github.com/nabla-c0d3/sslyze) - Fast and comprehensive TLS/SSL configuration analyzer to help identify security mis-configurations.
 * [SSL Labs](https://www.ssllabs.com/ssltest/) - Online TLS/SSL testing suite for revealing supported TLS/SSL versions and ciphers.
 * [crackpkcs12](https://github.com/crackpkcs12/crackpkcs12) - Multithreaded program to crack PKCS#12 files (`.p12` and `.pfx` extensions), such as TLS/SSL certificates.
+* [SSLScan](https://github.com/rbsec/sslscan) - Quick command line tool for checking TLS/SSL configuration.
+* [SMTP TLS Checker](https://luxsci.com/smtp-tls-checker) - Online TLS/SSL testing suite for SMTP servers.
 
 ### Web Exploitation
 
@@ -249,6 +251,7 @@
 * [dnstracer](http://www.mavetju.org/unix/dnstracer.php) - Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
 * [passivedns-client](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
 * [passivedns](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
+* [Freshonions Torscraper](https://github.com/GoSecure/freshonions-torscraper) - Dockerized software suite with a web front end for scraping and storing information from a list of onion sites.
 * [creepy](https://github.com/ilektrojohn/creepy) - Geolocation OSINT tool.
 * [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) - Database of Google dorks; can be used for recon.
 * [GooDork](https://github.com/k3170makan/GooDork) - Command line Google dorking tool.
