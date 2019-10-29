@@ -110,6 +110,7 @@
 * [ldapsearch](https://linux.die.net/man/1/ldapsearch) - Linux command line utility for querying LDAP servers.
 * [ACLight](https://github.com/cyberark/ACLight) - Script for advanced discovery of sensitive Privileged Accounts - includes Shadow Admins.
 * [Pentest-Tools](https://pentest-tools.com/home) - Online suite of various different pentest related tools.
+* [BuiltWith](https://builtwith.com/) - Technology lookup tool for websites.
 
 ### Protocol Analyzers and Sniffers
 
