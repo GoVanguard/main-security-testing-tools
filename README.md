@@ -71,6 +71,8 @@
 
 ### Network Tools
 
+* [Spyse](https://spyse.com) - Web research services that scans the entire internet using OSINT.  to simplify the investigation of infrastructure and attack surfaces.
+ - [Spyse.py](https://github.com/zeropwn/spyse.py) - Python wrapper for interacting with Spyse API 
 * [pig](https://github.com/rafael-santiago/pig) - GNU/Linux packet crafting tool.
 * [Network-Tools.com](http://network-tools.com/) - Website offering an interface to numerous basic network utilities like `ping`, `traceroute`, `whois`, and more.
 * [Intercepter-NG](http://sniff.su/) - Multifunctional network toolkit.
@@ -100,6 +102,7 @@
 * [Shodan](https://shodan.io/) - Database containing information on all accessible domains on the internet obtained from passive scanning.
   - [pyShodan](https://github.com/GoVanguard/pyShodan) - Python 3 script for interacting with Shodan API (requires valid API key).
 * [zmap](https://zmap.io/) - Open source network scanner that enables researchers to easily perform Internet-wide network studies.
+* [Sublist3r](https://github.com/aboul3la/Sublist3r) - subdomains enumeration tool for penetration testers
 * [nmap](https://nmap.org/) - Free security scanner for network exploration & security audits.
 * [Netdiscover](https://github.com/alexxy/netdiscover) - Simple and quick network scanning tool.
 * [xprobe2](https://linux.die.net/man/1/xprobe2) - Open source operating system fingerprinting tool.
