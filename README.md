@@ -96,6 +96,7 @@
 * [Iodine](https://code.kryo.se/iodine/) - Tunnel IPv4 data through a DNS server; useful for exfiltration from networks where Internet access is firewalled, but DNS queries are allowed.
 * [PassHunt](https://github.com/Dionach/PassHunt) - Search file systems for passwords.
 * [PANHunt](https://github.com/Dionach/PANhunt) - Search file systems for credit cards.
+* [ptunnel-ng](https://github.com/lnslbrty/ptunnel-ng) - Tunnel IPv4 traffic through ICMP pings; slow but stealthy when normal IP exfiltration traffic is blocked.
 
 ### Network Reconnaissance Tools
 
@@ -142,6 +143,7 @@
 ### Wireless Network Tools
 
 * [Aircrack-ng](http://www.aircrack-ng.org/) - Set of tools for auditing wireless networks.
+* [Bettercap](https://www.bettercap.org/) - Wifi, Bluetooth LE, and HID reconnaissance and MITM attack framework, written in Go.
 * [Wifite](https://github.com/derv82/wifite) - Automated wireless attack tool.
 * [wifi-pickle](https://github.com/GoVanguard/wifi-pickle) - Fake access point attacks.
 * [MANA Toolkit](https://github.com/sensepost/mana) - Rogue AP and man-in-the-middle utility.
@@ -272,6 +274,7 @@
 * [Amass](https://github.com/OWASP/Amass) - Subdomain enumeration via scraping, web archives, brute forcing, permutations, reverse DNS sweeping, TLS certificates, passive DNS data sources, etc.
 * [XRay](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
 * [Intel Techniques Online Tools](https://inteltechniques.com/menu.html) - Use the links to the left to access all of the custom search tools.
+* [emagnet](https://github.com/wuseman/EMAGNET) - Leaked database crawling tool that also supports account brute-forcing; useful for username/password discovery
 
 ### Anonymity Tools
 
