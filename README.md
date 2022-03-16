@@ -51,6 +51,7 @@
 * [ShellCheck](https://github.com/koalaman/shellcheck) - Static code analysis tool for shell script.
 * [Codebeat (open source)](https://codebeat.co/open-source/) - Open source implementation of commercial static code analysis tool with GitHub integration.
 * [truffleHog](https://github.com/dxa4481/truffleHog) - Git repo scanner.
+* [SecretScanner](https://github.com/GoVanguard/SecretScanner) - Scans application code for hard coded secrets.
 
 ### Web Vulnerability Scanners
 
@@ -58,6 +59,7 @@
 * [OWASP Zed Attack Proxy (ZAP)](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - Feature-rich, scriptable HTTP intercepting proxy and fuzzer for penetration testing web applications.
 * [Nikto](https://cirt.net/nikto2) - Noisy but fast black box web server and web application vulnerability scanner.
 * [WPScan](https://wpscan.org/) - Black box WordPress vulnerability scanner.
+* [Log4jCenter](https://github.com/puzzlepeaches/Log4jCenter) - VMWare vCenter Log4Shell exploitation tool.
 
 ### Network Tools
 
@@ -71,12 +73,14 @@
 * [Printer Exploitation Toolkit (PRET)](https://github.com/RUB-NDS/PRET) - Tool for printer security testing capable of IP and USB connectivity, fuzzing, and exploitation of PostScript, PJL, and PCL printer language features.
 * [impacket](https://github.com/CoreSecurity/impacket) - Collection of Python classes for working with network protocols.
 * [THC Hydra](https://github.com/vanhauser-thc/thc-hydra) - Online password cracking tool with built-in support for many network protocols, including HTTP, SMB, FTP, telnet, ICQ, MySQL, LDAP, IMAP, VNC, and more.
-* [Ncat](https://nmap.org/ncat/) - TCP/IP command line utility supporting multiple protocols.
+* [Ncat](https://nmap.org/ncat/) - TCP/IP command line utility supporting multiple protocols, included with Nmap.
 * [Network Detective] ( https://www.rapidfiretools.com/products/network-detective/) - White Box tool used for network analysis, enumeration of users, permission, shares, and assets, sold by Rapidfiretools. 
 
 ### Cloud Vulnerability Analysis Tools
 [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
 [Prowler](https://github.com/prowler-cloud/prowler) - Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness.
+[PrincipleMapper](https://github.com/nccgroup/PMapper) - Open source AWS IAM vulnerability analysis tool.
+[Pacu](https://github.com/RhinoSecurityLabs/pacu) - AWS exploitation framework.
 [CloudSploit](https://github.com/aquasecurity/cloudsploit) - CloudSploit by Aqua is an open-source project designed to allow detection of security risks in cloud infrastructure accounts, including: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), and GitHub.
 
 ### Network Reconnaissance Tools
