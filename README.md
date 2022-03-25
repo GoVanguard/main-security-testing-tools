@@ -164,6 +164,7 @@
 * [redsnarf](https://github.com/nccgroup/redsnarf) - Post-exploitation tool for retrieving password hashes and credentials from Windows workstations, servers, and domain controllers.
 * [Magic Unicorn](https://github.com/trustedsec/unicorn) - Shellcode generator for numerous attack vectors, including Microsoft Office macros, PowerShell, HTML applications (HTA), or `certutil` (using fake certificates).
 * [WinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS) - A series of scripts for Windows Priviledge escalation. 
+* [ldapdomaindump](https://github.com/dirkjanm/ldapdomaindump) - Active directory domain information dumper
 
 ### GNU/Linux Utilities
 
