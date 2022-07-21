@@ -74,7 +74,7 @@
 * [impacket](https://github.com/CoreSecurity/impacket) - Collection of Python classes for working with network protocols.
 * [THC Hydra](https://github.com/vanhauser-thc/thc-hydra) - Online password cracking tool with built-in support for many network protocols, including HTTP, SMB, FTP, telnet, ICQ, MySQL, LDAP, IMAP, VNC, and more.
 * [Ncat](https://nmap.org/ncat/) - TCP/IP command line utility supporting multiple protocols, included with Nmap.
-* [Network Detective] ( https://www.rapidfiretools.com/products/network-detective/) - White Box tool used for network analysis, enumeration of users, permission, shares, and assets, sold by Rapidfiretools. 
+* [Network Detective]( https://www.rapidfiretools.com/products/network-detective/) - White Box tool used for network analysis, enumeration of users, permission, shares, and assets, sold by Rapidfiretools. 
 
 ### Cloud Vulnerability Analysis Tools
 [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
@@ -196,6 +196,9 @@
 * [Amass](https://github.com/OWASP/Amass) - Subdomain enumeration via scraping, web archives, brute forcing, permutations, reverse DNS sweeping, TLS certificates, passive DNS data sources, etc.
 * [TruePeopleSearch](https://www.truepeoplesearch.com/) - OSINT tool for individual research. 
 * [DNSTwist](https://dnstwist.it/) - Open source phishing domain scanner to identify potentially malicious typosquatted domains. 
+* [AlienVault OTX](https://otx.alienvault.com/) - The World’s First Truly Open Threat Intelligence Community.
+* [Criminal IP](https://www.criminalip.io/) - Web base OSINT platform that enables rapidly collecting technical data on public facing websites.
+* [GrayHatWarfare](https://grayhatwarfare.com/) - Web based tool for identifying exposed S3 Buckets or Azure BLOBs. 
 
 ### Reverse Engineering Tools
 * [VirusTotal](https://www.virustotal.com/#/home/upload) - Online malware scanner.
