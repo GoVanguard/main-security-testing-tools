@@ -137,6 +137,7 @@
 * [tplmap](https://github.com/epinna/tplmap) - Automatic server-side template injection and Web server takeover tool.
 * [wafw00f](https://github.com/EnableSecurity/wafw00f) - Identifies and fingerprints Web Application Firewall (WAF) products.
 * [IIS-Shortname-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) - Command line tool to exploit the Windows IIS tilde information disclosure vulnerability.
+* [UUID Decode](https://www.uuidtools.com/decode - Web based tool to extract version and variant information from UUIDs. 
 
 ### Hex Editors
 
