@@ -77,11 +77,11 @@
 * [Network Detective]( https://www.rapidfiretools.com/products/network-detective/) - White Box tool used for network analysis, enumeration of users, permission, shares, and assets, sold by Rapidfiretools. 
 
 ### Cloud Vulnerability Analysis Tools
-[ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
-[Prowler](https://github.com/prowler-cloud/prowler) - Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness.
-[PrincipleMapper](https://github.com/nccgroup/PMapper) - Open source AWS IAM vulnerability analysis tool.
-[Pacu](https://github.com/RhinoSecurityLabs/pacu) - AWS exploitation framework.
-[CloudSploit](https://github.com/aquasecurity/cloudsploit) - CloudSploit by Aqua is an open-source project designed to allow detection of security risks in cloud infrastructure accounts, including: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), and GitHub.
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
+* [Prowler](https://github.com/prowler-cloud/prowler) - Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness.
+* [PrincipleMapper](https://github.com/nccgroup/PMapper) - Open source AWS IAM vulnerability analysis tool.
+* [Pacu](https://github.com/RhinoSecurityLabs/pacu) - AWS exploitation framework.
+* [CloudSploit](https://github.com/aquasecurity/cloudsploit) - CloudSploit by Aqua is an open-source project designed to allow detection of security risks in cloud infrastructure accounts, including: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), and GitHub.
 
 ### Network Reconnaissance Tools
 
