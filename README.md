@@ -52,6 +52,7 @@
 * [Codebeat (open source)](https://codebeat.co/open-source/) - Open source implementation of commercial static code analysis tool with GitHub integration.
 * [truffleHog](https://github.com/dxa4481/truffleHog) - Git repo scanner.
 * [SecretScanner](https://github.com/GoVanguard/SecretScanner) - Scans application code for hard coded secrets.
+* [SecretSearcher](https://github.com/GoVanguard/SecretSearcher) - Scans application code for hard coded secrets (includes extended functionality).
 
 ### Web Vulnerability Scanners
 
