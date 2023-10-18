@@ -40,6 +40,7 @@
 * [OpenVAS](http://www.openvas.org/) - Open source implementation of the popular Nessus vulnerability assessment system.
 * [Nexpose](https://www.rapid7.com/products/nexpose/) - Commercial vulnerability and risk management assessment engine that integrates with Metasploit, sold by Rapid7.
 * [Nessus](https://www.tenable.com/lp/campaigns/19/try-nessus/) - Commercial vulnerability assessment tool, sold by Tenable. 
+* [OpalOPC](https://opalopc.com/) - Commercial OPC UA vulnerability assessment tool, sold by Molemmat.
 
 ### Static Analyzers
 
